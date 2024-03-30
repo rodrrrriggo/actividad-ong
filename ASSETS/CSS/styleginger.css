@@ -1,0 +1,39 @@
+header{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 1600px;
+}
+
+/*MARGENES Y ESTILOS PARA PODER DARLE DIMENSIONES A LAS IMAGENES Y TEXTOS*/
+img{
+    margin-top: 200px;
+    height: 450px;
+    width: 300px;
+    margin-left: 300px;
+
+}
+
+nav{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 200px;
+}
+
+/*PARA PODER QUITARLE LOS PUNTOS A LOS LI*/
+
+li{
+    list-style-type: none;
+}
+
+.container1{
+    display: flex;
+    align-items: center;
+}
+
+.textoencontainer1{
+    margin: 0px;
+}
+
+.imagenes1{
+    margin: 0px;
+}
